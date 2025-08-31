@@ -1,4 +1,4 @@
-<h1 align="center">Boss? Bossing?</h1>
+<h1 align="center">Pass sa kupal</h1>
 
 ###
 
