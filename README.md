@@ -50,16 +50,9 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hephaestus2004/Hephaestus2004/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hephaestus2004/Hephaestus2004/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hephaestus2004/Hephaestus2004/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZndTlhMmQwMmduYWNvOWI2NDRiZnFpYjN0bWJ2OXIweGxuYW1qOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AahOYxkCcyYne/giphy.gif"  />
 </div>
 
