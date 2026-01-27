@@ -31,17 +31,6 @@
 ###
 
 
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hephaestus2004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Hephaestus2004&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZndTlhMmQwMmduYWNvOWI2NDRiZnFpYjN0bWJ2OXIweGxuYW1qOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AahOYxkCcyYne/giphy.gif"  />
 </div>
